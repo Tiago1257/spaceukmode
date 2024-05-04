@@ -7,7 +7,7 @@ using namespace geode::prelude;
 class $modify(EndLevelLayer) {
 	void customSetup() {
 		EndLevelLayer::customSetup();
-		auto watermark = this->getChildByID("level-complete-text");
+		auto watermark = this->m_mainLayer->getChildByID("level-complete-text");
 		watermark->setScale(.752f);
 	};
 };
