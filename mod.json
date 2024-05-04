@@ -9,7 +9,7 @@
 	"id": "1257plays.spaceuk_mode",
 	"name": "SpaceUK Mode",
 	"developer": "1257Plays",
-	"description": "You already know where this joke is headed.",
+	"description": "Make all the skibidis in Ohio think you SpaceUK!",
 	"dependencies": [
         {
             "id": "geode.node-ids",
