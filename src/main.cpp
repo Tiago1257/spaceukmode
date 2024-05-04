@@ -8,5 +8,8 @@ class $modify(EndLevelLayer) {
 		if (auto watermark = this->m_mainLayer->getChildByIDRecursive("level-complete-text")) {
 			watermark->setScale(.752f);
 		}
+		if (auto watermark = this->m_mainLayer->getChildByIDRecursive("practice-complete-text")) {
+			watermark->setScale(.752f);
+		}
 	};
 };
