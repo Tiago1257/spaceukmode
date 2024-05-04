@@ -1,19 +1,19 @@
 {
 	"geode": "2.0.0-beta.25",
 	"gd": {
-        	"android": "2.205",
-        	"win": "2.204",
+        "android": "2.205",
+        "win": "2.204",
 		"mac": "2.200"
-    	},
-	"version": "v1.0.0",
+    },
+	"version": "v1.0.1",
 	"id": "1257plays.spaceuk_mode",
 	"name": "SpaceUK Mode",
 	"developer": "1257Plays",
-	"description": "Make all the skibidis in Ohio think you SpaceUK!",
+	"description": "You already know where this joke is headed.",
 	"dependencies": [
         {
             "id": "geode.node-ids",
-            "version": ">=v1.7.1",
+            "version": ">=v1.9.1",
             "importance": "required"
         }
 	]
